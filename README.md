@@ -1,10 +1,10 @@
 # E-commerce Analysis
 ## Table of Content
-- [Overview](overview)
-- [Metrics](metrics)
-- [Key Findings](key-findings)
-- [Recommendations](recommendations)
-- [Data Analysis Process](data-analysis-process)
+- [Overview](#overview)
+- [Metrics](#metrics)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Data Analysis Process](#data-analysis-process)
 
 ### Overview
 This report presents a comprehensive analysis of a Brazilian E-Commerce dataset, covering over 17 million orders placed between 2016 and 2018. The analysis explores customer behavior, product performance, and payment preferences, offering valuable insights into key trends that influence business growth. Additionally, the report delves into customer satisfaction levels with the delivery system, identifying areas of improvement and success in meeting customer expectations.
